@@ -1,7 +1,6 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
+title: About Ron
+subtitle: Ron Bronson is a transformation designer who blah blahj blah lbhal bhalh. 
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
