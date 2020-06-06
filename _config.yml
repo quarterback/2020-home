@@ -1,7 +1,7 @@
-site: Ron Bronson
+site: Duet Jekyll Theme
 
-url: https://now.ronbronson.com
-baseurl: https://now.ronbronson.com
+url: 
+baseurl: 
 
 collections:
   pages:
