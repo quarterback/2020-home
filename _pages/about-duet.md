@@ -5,7 +5,6 @@ description: Ron Bronson has presented at conferences around the world since 201
 featured_image: "/uploads/31253028_10101329449524743_8629025546082189312_o.jpg"
 
 ---
-
 ## Selected Interviews
 
 [Thought Feeder - Service Design.& Consequence](https://thoughtfeederpod.com/podcast/service-design-and-consequences/ "Thought Feeder") (2020)  
