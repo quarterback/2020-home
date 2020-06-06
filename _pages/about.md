@@ -1,34 +1,12 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About Ron Bronson
+subtitle: ''
+description: ''
+featured_image: ''
+
 ---
-
-![](/images/demo/demo-landscape.jpg)
-
-## Features
-
-We've packed Duet full of powerful features to help showcase your work:
-
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Duet
-
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Ron Bronson is an experience designer, information architect, digital director, and speaker. He works on large-scale digital transformation projects, collaborates with developers & other designers to build digital products, interfaces, and migrate large sites successfully. He's been on stage at conferences around the world discussing diverse topics around the user experience. Right now, he leads the product design team at [18F](http://18f.gsa.gov/).  
+  
+Before moving to the west coast, Ron started a number of non-profit community design events including [Indianapolis Design Week](http://indydesignweek.com/). He also local boards of Indy's AIGA and IxDA chapters. He also spent two years as a volunteer news anchor (and later, a board member) at community radio station [WFHB-FM](http://wfhb.org/). A long time ago, he spent four years on active duty in the U.S Air Force, too.  
+  
+Ron sometimes coaches [tennis;](https://ronbronson.com/tennis.html) plays professional skeeball; volunteers with Code for PDX; an amateur tea sommelier; and is America's [leading Finnish baseball (Pesäpallo)](https://twitter.com/ronbronson/status/1167995626342141953) evangelist. If you want to talk about music, [find him on Twitter.](http://twitter.com/ronbronson)
