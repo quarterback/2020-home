@@ -1,7 +1,7 @@
 ---
 title: Speaking
 subtitle: A list of talks I've given since 2017
-featured_image: "/images/demo/demo-landscape.jpg"
+featured_image: ''
 
 ---
 ![](/uploads/31253028_10101329449524743_8629025546082189312_o.jpg)
