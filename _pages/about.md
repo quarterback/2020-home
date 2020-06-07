@@ -1,6 +1,6 @@
 ---
 title: About Ron
-subtitle: Ron Bronson
+subtitle: 
 featured_image: 
 ---
 
