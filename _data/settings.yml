@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Ron Bronson
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
@@ -61,17 +61,17 @@ social_settings:
   linkedin_url: 'https://linkedin.com/in/ronbronson'
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  background_color: '#F6FFF8'
+  background_alt_color: '#EAF4F4'
+  text_dark_color: '#181F1C'
+  text_medium_color: '#E0E0E2'
+  text_light_color: '#1E212B'
+  accent_color: '#FF928B'
   border_color: '#dddddd'
   overlay_background_color: '#F2784B'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
-  error_color: '#D64541'
+  error_color: '#A31621'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Solway:wght@300;400;500;700&display=swap" rel="stylesheet">'
