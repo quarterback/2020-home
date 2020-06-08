@@ -25,5 +25,3 @@ _Sep. 2017 _Workshop: Content Migration_, **Confab Intensive (Denver)**
 Jul. 2017 [_Discovery & Microinteractions: Improving the Product Toolbox_](https://vimeo.com/228911684), **Design & Content Conference (Vancouver)** 🇨🇦  
 May 2017 _Blind Spots That Product Experiences_, **Pixel Up! (Cape Town) 🇿🇦**  
 Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois Web Conference**
-
-![](/uploads/31253028_10101329449524743_8629025546082189312_o.jpg)
