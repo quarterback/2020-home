@@ -8,16 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Writing'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Speaking'
       url: '/speaking'
     - title: 'Interviews'
       url: '/interviews'
+    - title: 'Writing'
+      url: 'https://work.ronbronson.com/'
 
 footer_settings:
   logo_image: 

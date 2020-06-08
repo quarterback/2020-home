@@ -12,13 +12,13 @@ featured_image: ''
 
 [Finnish Television - Vimpeli, Finland, Aug. '19](https://www.youtube.com/watch?v=0sLQu_HUbAM)
 
-[UX Podcast - Dark Patterns, '19](https://drunkenux.com/podcast/dux41/) 
+[UX Podcast - Dark Patterns, '19](https://drunkenux.com/podcast/dux41/)
 
-[Problem Solving in Government (New America, '18)](https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/this-is-everyones-work/) 
+[Problem Solving in Government (New America, '18)](https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/this-is-everyones-work/)
 
-[Responsive Web Design podcast, Apr. '17](https://responsivewebdesign.com/
+[Responsive Web Design Podcast - Apr '17](https://responsivewebdesign.com/podcast/ron-bronson/)
 
-podcast/ron-bronson/)
+
 [Random Trek podcast, '17](https://www.theincomparable.com/randomtrek/145/)
 
 [HighEdWeb Link Magazine, '17](https://link.highedweb.org/2017/01/six-questions-with-ron-bronson/)
