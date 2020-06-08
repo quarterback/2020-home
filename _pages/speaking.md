@@ -1,9 +1,11 @@
 ---
 title: Speaking
 subtitle: A list of talks I've given since 2017
-featured_image: ''
+featured_image: '/images/ron_bronson_800.jpg'
 
 ---
+![](/images/ron_bronson_800.jpg)
+
 I've presented at over 50 design, UX research & content strategy events around the world since 2013. Here are a few of my (relatively) recent talks. 
 
 
