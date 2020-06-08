@@ -8,8 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
     - title: 'About'
       url: '/about'
     - title: 'Speaking'
