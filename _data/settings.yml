@@ -63,7 +63,7 @@ social_settings:
   linkedin_url: 'https://linkedin.com/in/ronbronson'
 
 color_settings:
-  background_color: '#F6FFF8'
+  background_color: '#FCFC62'
   background_alt_color: '#EAF4F4'
   text_dark_color: '#181F1C'
   text_medium_color: '#251605'
