@@ -1,9 +1,11 @@
 ---
 title: Interviews
 subtitle: Assorted interviews on podcasts, blogs & that one time I was on Finnish TV...
-featured_image: ''
+featured_image: '/images/host.jpg'
 
 ---
+![](/images/host.jpg)
+
 [Thought Feeder podcast - Service Design & Consequences - May '20](https://thoughtfeederpod.com/podcast/service-design-and-consequences/)
 
 [Vimpelin Veto - Sept. '19](https://vimpelinveto.fi/uutiset/detail/pesaepallo/3046-ron-bronson-toteutti-veto-haaveensa)
