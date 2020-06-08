@@ -16,8 +16,6 @@ menu_settings:
       url: '/interviews'
     - title: 'Writing'
       url: 'https://work.ronbronson.com/'
-    - title: 'Work'
-      url: '/project.html'
     - title: 'Contact'
       url: 'mailto:ron@ronbronson.com'
 
