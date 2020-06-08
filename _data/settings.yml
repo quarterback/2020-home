@@ -68,7 +68,7 @@ color_settings:
   text_dark_color: '#181F1C'
   text_medium_color: '#251605'
   text_light_color: '#1E212B'
-  accent_color: '#01172F'
+  accent_color: '#EF233C'
   border_color: '#08A4BD'
   overlay_background_color: '#F2784B'
   overlay_text_color: '#ffffff'
