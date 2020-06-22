@@ -12,7 +12,7 @@ menu_settings:
       url: '/about'
     - title: 'Speaking'
       url: '/speaking'
-    - title: 'Interviews'
+    - title: 'Projects'
       url: '/interviews'
     - title: 'Writing'
       url: 'https://work.ronbronson.com/'

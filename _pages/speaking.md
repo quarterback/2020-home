@@ -1,6 +1,6 @@
 ---
-title: Speaking
-subtitle: A list of talks I've given since 2017
+title: Speaking & Interviews
+subtitle: Talks & Interviews since 2017
 featured_image: '/images/ron_bronson_800.jpg'
 
 ---
@@ -28,9 +28,11 @@ Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois W
 
 ![](/images/host.jpg)
 
-Interviews
+**Interviews**
 
 [Thought Feeder podcast - Service Design & Consequences - May '20](https://thoughtfeederpod.com/podcast/service-design-and-consequences/)
+
+[Superpesis Roundup podcast - May '20](https://www.podbean.com/media/share/pb-um53t-d8f64a)
 
 [Vimpelin Veto - Sept. '19](https://vimpelinveto.fi/uutiset/detail/pesaepallo/3046-ron-bronson-toteutti-veto-haaveensa)
 
