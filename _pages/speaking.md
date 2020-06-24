@@ -30,6 +30,8 @@ Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois W
 
 **Interviews**
 
+[Technically Speaking podcast - Consequence Design - June '20](https://www.youtube.com/watch?v=L9hbuPpEFb4)
+
 [Thought Feeder podcast - Service Design & Consequences - May '20](https://thoughtfeederpod.com/podcast/service-design-and-consequences/)
 
 [Superpesis Roundup podcast - May '20](https://www.podbean.com/media/share/pb-um53t-d8f64a)
