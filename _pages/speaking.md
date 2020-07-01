@@ -23,7 +23,7 @@ Jan. '18 _Service Design in Higher Education_, **Carnegie Conference (Orlando)**
 Nov. 2017 _Tackling Content Migration & Maintenance, **Confab Higher Ed**  
 _Sep. 2017 _Workshop: Content Migration_, **Confab Intensive (Denver)**  
 Jul. 2017 [_Discovery & Microinteractions: Improving the Product Toolbox_](https://vimeo.com/228911684), **Design & Content Conference (Vancouver)** 🇨🇦  
-May 2017 _Blind Spots That Product Experiences_, **Pixel Up! (Cape Town) 🇿🇦**  
+May 2017 _Blind Spots That Ruin Product Experiences_, **Pixel Up! (Cape Town) 🇿🇦**  
 Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois Web Conference**
 
 ![](/images/host.jpg)
