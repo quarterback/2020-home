@@ -12,8 +12,8 @@ menu_settings:
       url: '/about'
     - title: 'Speaking'
       url: '/speaking'
-    - title: 'Newsletter'
-      url: 'https://ronbronson.substack.com/'
+    - title: 'Writing'
+      url: 'https://work.ronbronson.com/'
     - title: 'Contact'
       url: 'mailto:ron@ronbronson.com'
 
