@@ -36,6 +36,8 @@ Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois W
 
 [Superpesis Roundup podcast - May '20](https://www.podbean.com/media/share/pb-um53t-d8f64a)
 
+[Gather Content - Should You Have FAQs on your site?](https://gathercontent.com/blog/big-question-should-you-have-faqs-on-your-website)
+
 [Vimpelin Veto - Sept. '19](https://vimpelinveto.fi/uutiset/detail/pesaepallo/3046-ron-bronson-toteutti-veto-haaveensa)
 
 [Superpesis website (in Finnish) - Sept. '19](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/)
