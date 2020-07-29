@@ -12,15 +12,15 @@ menu_settings:
       url: '/about'
     - title: 'Speaking'
       url: '/speaking'
-    - title: 'Writing'
-      url: 'https://work.ronbronson.com/'
+    - title: 'Newsletter'
+      url: 'https://ronbronson.substack.com/'
     - title: 'Contact'
       url: 'mailto:ron@ronbronson.com'
 
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Built w/ Git, Jekyll, VSCode, Google Fonts & Netlify. 
+  footer_tagline: Built hastily w/ Git, Jekyll, VSCode, Google Fonts & Netlify. 
 
 grid_settings:
   overlay_opacity: 0.8
