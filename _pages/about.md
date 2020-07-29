@@ -1,4 +1,4 @@
-.---
+---
 title: About Ron
 subtitle: 
 featured_image: /images/ron_bronson_400.jpg
