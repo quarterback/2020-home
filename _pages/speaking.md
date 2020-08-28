@@ -8,7 +8,7 @@ featured_image: '/images/ron_bronson_800.jpg'
 
 I've presented at over 50 design, UX research & content strategy events around the world since 2013. Here are a few of my (relatively) recent talks. 
 
-Oct. '20 _Service Design Global Conference_
+Oct. '20 _The Consequences in Service Design_, [**Service Design Global Conference**](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers)
 July '20 _The Researcher's Role in Reducing Consequence Design_, [**An Event Apart HCD**](https://aneventapart.com/event/online-0720#s24059)  
 May '20 Hostile Design of Everyday Experiences, **Indy Design Week 2020**  
 Mar. '20 _The Researcher's Role in Reducing Hostile Design,_ **UX Australia Design Research** 🇦🇺  
