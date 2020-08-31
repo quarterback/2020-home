@@ -1,6 +1,6 @@
 ---
 title: 'Featured Projects'
-subtitle: Things I've worked on
+subtitle: 
 featured_image: ''
 ---
 
