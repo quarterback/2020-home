@@ -8,10 +8,11 @@ featured_image: '/images/ron_bronson_800.jpg'
 
 I've presented at over 50 design, UX research & content strategy events around the world since 2013. Here are a few of my (relatively) recent talks. 
 
-Oct. '20 _The Consequences in Service Design_, [**Service Design Global Conference**](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers)
-July '20 _The Researcher's Role in Reducing Consequence Design_, [**An Event Apart HCD**](https://aneventapart.com/event/online-0720#s24059)  
+Nov. '20 _Consequence Desgin in UX Writing_ **PDX UX Writers Meetup**(https://www.meetup.com/portland-ux-writers-community/events/274434437/)
+Oct. '20 _Consequence Design_ **US Web Design System Monthly Call**(https://youtu.be/Aw5ovySXf6o?t=1430) 
+Oct. '20 _The Consequences in Service Design_, **Service Design Global Conference**(https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers)
+July '20 _The Researcher's Role in Reducing Consequence Design_, **An Event Apart HCD**(https://aneventapart.com/event/online-0720#s24059)  
 May '20 Hostile Design of Everyday Experiences, **Indy Design Week 2020**  
-Mar. '20 _The Researcher's Role in Reducing Hostile Design,_ **UX Australia Design Research** 🇦🇺  
 Oct. '19 _Hostile Design of Digital Experiences_, **ACM SIGDOC (Portland)**  
 Jun. '19 _Hostile Design of Digital Experiences (_[_slides_](https://speakerdex.co/ronbronson/hostile-design-of-digital-experiences-f6054e73)_)_ **(Fjord Austin)**  
 Jun. '19 [_Involving stakeholders in design research: a primer for success_](http://uxrconference.com/ron-bronson.html), **UXR Conference (Toronto)** 🇨🇦  
