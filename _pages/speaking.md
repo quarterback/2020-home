@@ -8,10 +8,10 @@ featured_image: '/images/ron_bronson_800.jpg'
 
 I've presented at over 50 design, UX research & content strategy events around the world. Here's an abridged list my talks since 2017:
 
-Nov. '20 [Consequence Design in UX Writing](https://www.meetup.com/portland-ux-writers-community/events/274434437/) **PDX UX Writers Meetup** <br/>
-Oct. '20 [Consequence Design](https://youtu.be/Aw5ovySXf6o?t=1430) **US Web Design System Monthly Call** <br/>
-Oct. '20 [The Consequences in Service Design](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers) **Service Design Network Global Conference** <br/>
-July '20 [The Researcher's Role in Reducing Consequence Design](https://aneventapart.com/event/online-0720#s24059) **An Event Apart HCD** <br/>
+Nov. '20 [Consequence Design in UX Writing](https://www.meetup.com/portland-ux-writers-community/events/274434437/), **PDX UX Writers Meetup** <br/>
+Oct. '20 [Consequence Design](https://youtu.be/Aw5ovySXf6o?t=1430), **US Web Design System Monthly Call** <br/>
+Oct. '20 [The Consequences in Service Design](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers), **Service Design Network Global Conference** <br/>
+July '20 [The Researcher's Role in Reducing Consequence Design](https://aneventapart.com/event/online-0720#s24059), **An Event Apart HCD** <br/>
 May '20 Hostile Design of Everyday Experiences, **Indy Design Week 2020**  
 Oct. '19 Hostile Design of Digital Experiences, **ACM SIGDOC (Portland)**  
 Jun. '19 [_Hostile Design of Digial Experiences_](https://speakerdex.co/ronbronson/hostile-design-of-digital-experiences-f6054e73) **(Fjord Austin)**  
