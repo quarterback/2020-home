@@ -6,7 +6,7 @@ featured_image: '/images/ron_bronson_800.jpg'
 ---
 ![](/images/ron_bronson_800.jpg)
 
-I've presented at over 50 design, UX research & content strategy events around the world since 2013. Here are a few of my (relatively) recent talks. 
+I've presented at over 50 design, UX research & content strategy events around the world. Here's an abridged list my talks since 2017:
 
 Nov. '20 _Consequence Desgin in UX Writing_ **PDX UX Writers Meetup**(https://www.meetup.com/portland-ux-writers-community/events/274434437/)
 Oct. '20 _Consequence Design_ **US Web Design System Monthly Call**(https://youtu.be/Aw5ovySXf6o?t=1430) 
@@ -51,7 +51,6 @@ Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois W
 [Problem Solving in Government (New America, '18)](https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/this-is-everyones-work/)
 
 [Responsive Web Design Podcast - Apr '17](https://responsivewebdesign.com/podcast/ron-bronson/)
-
 
 [Random Trek podcast, '17](https://www.theincomparable.com/randomtrek/145/)
 
