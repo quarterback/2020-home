@@ -18,7 +18,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Built hastily w/ Git, Jekyll, VSCode, Google Fonts & Netlify. 
+  footer_tagline: Last updated 2 March 21. Built hastily w/ Git, Jekyll, VSCode, Google Fonts & Netlify. 
 
 grid_settings:
   overlay_opacity: 0.8
@@ -34,7 +34,7 @@ social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/ronbronson'
   instagram_url: 'https://instagram.com/ronbronson'
-  snapchat_url: 'https://ronbronson.substack.com/'
+  snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
@@ -59,22 +59,22 @@ social_settings:
   linkedin_url: 'https://linkedin.com/in/ronbronson'
 
 color_settings:
-  background_color: '#FCFC62'
+  background_color: '#562C2C'
   background_alt_color: '#EAF4F4'
   text_dark_color: '#181F1C'
   text_medium_color: '#251605'
-  text_light_color: '#1E212B'
-  accent_color: '#EF233C'
-  border_color: '#08A4BD'
+  text_light_color: '#F2542D'
+  accent_color: '#F5DFBB'
+  border_color: '#0E9594'
   overlay_background_color: '#F2784B'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#A31621'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&family=Solway:wght@300;800&display=swap" rel="stylesheet">'
-  title_font: '"Solway", sans-serif'
-  body_font: '"Manrope", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Contrail+One&family=Overpass:ital@0;1&display=swap" rel="stylesheet"> '
+  title_font: '"Contrail+One", sans-serif'
+  body_font: '"Overpass", sans-serif'
   regular_weight: 400
   bold_weight: 800
   site_title:
